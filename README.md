@@ -12,7 +12,7 @@ To install the repository just follow your basic ssh clone procudure and use whi
 
 If you wanted to add new articles instead of the ones already displayed in the section tag you can change them at your leisure to anything you like. 
 
-![Screenshot of Section Code](assets/images/Horiseon_h1 section code.png)
+![](assets/images/Horiseon_h1sectioncode.png)
 
 ## Changes made 
 
